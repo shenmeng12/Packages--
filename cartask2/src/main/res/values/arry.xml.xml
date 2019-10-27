@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ctype">
+        <item>不做选择</item>
+        <item>数码管开始计时</item>
+        <item>数码管关闭计时</item>
+        <item>数码管计时清零</item>
+        <item>数码管第一排显示</item>
+        <item>数码管第二排显示</item>
+    </string-array>
+    <string-array name="xdz">
+        <item>不做选择</item>
+        <item>道闸打开</item>
+        <item>道闸关闭</item>
+        <item>打开并发送消息</item>
+    </string-array>
+    <string-array name="rk">
+        <item>不做选择</item>
+        <item>第一层</item>
+        <item>第二层</item>
+        <item>第三层</item>
+        <item>第四层</item>
+    </string-array>
+    <string-array name="cz">
+        <item>不做选择</item>
+        <item>TFT向上翻页</item>
+        <item>向下翻页</item>
+        <item>自动翻页</item>
+        <item>显示车牌前三位</item>
+        <item>显示车牌后三位</item>
+        <item>计时器关闭</item>
+        <item>计时器开始</item>
+        <item>计时器清零</item>
+        <item>六位显示数据</item>
+        <item>显示距离模式</item>
+        <item>显示预留图片</item>
+    </string-array>
+    <string-array name="etc">
+        <item>不做选择</item>
+        <item>过ETC</item>
+    </string-array>
+    <string-array name="znjtd">
+        <item>不做选择</item>
+        <item>进入识别模式</item>
+        <item>识别红色</item>
+        <item>识别绿色</item>
+        <item>识别黄色</item>
+    </string-array>
+    <string-array name="zncd">
+        <item>不做选择</item>
+        <item>智能充电</item>
+    </string-array>
+        <string-array name="bjt">
+            <item>不做选择</item>
+            <item>报警台开</item>
+            <item>报警台关</item>
+        </string-array>
+        <string-array name="lcd">
+            <item>不做选择</item>
+            <item>向上翻页</item>
+            <item>向下翻页</item>
+        </string-array>
+        <string-array name="gqtj">
+            <item>不做选择</item>
+            <item>一档</item>
+            <item>二档</item>
+            <item>三挡</item>
+            <item>四档</item>
+        </string-array>
+    <string-array name="fmq">
+        <item>不做选择</item>
+        <item>开</item>
+        <item>关</item>
+    </string-array>
+    <string-array name="zd">
+        <item>不做选择</item>
+        <item>左转开</item>
+        <item>左转关</item>
+    </string-array>
+    <string-array name="yd">
+        <item>不做选择</item>
+        <item>右转开</item>
+        <item>右转</item>
+    </string-array>
+    <string-array name="carcontrol">
+        <item>主车控制</item>
+        <item>从车控制</item>
+    </string-array>
+    <string-array name="x">
+        <item>不做选择</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="y">
+        <item>不做选择</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="qsfx">
+        <item>东</item>
+        <item>南</item>
+        <item>西</item>
+        <item>北</item>
+    </string-array>
+    <string-array name="x1">
+        <item>不做选择</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="y1">
+        <item>不做选择</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="zzfx">
+        <item>东</item>
+        <item>南</item>
+        <item>西</item>
+        <item>北</item>
+    </string-array>
+</resources>

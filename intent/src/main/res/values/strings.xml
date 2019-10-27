@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="button_1">路线</string>
+    <string name="button_2">任务</string>
+    <string name="button_3">单步</string>
+    <string name="button_4">选择执行</string>
+    <string name="button_5">单程</string>
+    <string name="button_6">主车停止</string>
+    <string name="button_7">从车停止</string>
+    <string name="button_8">删除</string>
+    <string name="button_9">清空</string>
+    <string name="button_10">保存</string>
+    <string name="button_11">载入</string>
+    <string name="button_12">修改</string>
+
+</resources>
